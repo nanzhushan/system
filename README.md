@@ -9,13 +9,13 @@
 * 内、外网卡的流入、流出流量等
 
 ## 使用
-go get github.com/lycclsltt/system
+go get github.com/nanzhushan/system
 
 ```go
 package main
 
 import(
-	"github.com/lycclsltt/system"
+	"github.com/nanzhushan/system"
 )
 
 func main() {
